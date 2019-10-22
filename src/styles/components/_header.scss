@@ -1,0 +1,13 @@
+@import '../vars';
+
+header {
+  text-align: center;
+  h1 {
+    font-size: 350%;
+    margin: 0;
+  }
+  margin-bottom: 10%;
+  width: 100%;
+  box-shadow: 0 0 5px #222;
+  background-color: $background-color;
+}
